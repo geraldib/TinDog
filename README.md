@@ -1,2 +1,1 @@
-# TinDog
-A fictional app for dogs!
+TinDog Starting Files
